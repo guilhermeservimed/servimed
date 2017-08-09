@@ -1,0 +1,11 @@
+391:e267738437e287992a5737c8590431b04e6b7e4b
+0
+0
+1
+mbr: oracle-instantclient12.1-devel,x86_64,0,12.1.0.2.0,1 20
+  repo: installed
+  ts_state: e
+  output_state: 40
+  isDep: False
+  reason: user
+  reinstall: False
